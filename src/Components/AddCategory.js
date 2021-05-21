@@ -4,7 +4,7 @@ import PropTypes from 'prop-types';
 
 const AddCategory = ({setAddCategory}) => {
 
-        const[Inputplaceholder,setImput]=useState("Hola mundo");
+        const[Inputplaceholder,setImput]=useState("Edith Morales");
 
                 const setFormulario=(e)=>{
                     e.preventDefault();
