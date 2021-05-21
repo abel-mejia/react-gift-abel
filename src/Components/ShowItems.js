@@ -29,6 +29,7 @@ const ShowItems = ({categorias}) => {
 
     return (
         <>
+        <h1>By edith</h1>
         <h2>{categorias}</h2>
         <div className="caja">
             {/* <button onClick={RenderizarPagina}>aumentar</button> */}

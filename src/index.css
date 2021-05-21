@@ -4,6 +4,15 @@
 body{
     padding: 60px;
 }
+h1{
+    text-align: center;
+    font-weight:70px;
+    transition:2s;
+}
+h1:hover{
+    color:brown;
+    opacity:20px;
+}
 input{
     width: 100%;
     color:gray;
